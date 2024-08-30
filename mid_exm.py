@@ -79,11 +79,11 @@ class Hall(Star_Cinema):
 hall1 = Hall(1, 5, 5)
 hall2 = Hall(2, 6, 6)
 
-hall1.entry_show(101, "Inception", "5:00 PM")
+hall1.entry_show(101, "Jawan", "5:00 PM")
 hall1.entry_show(102, "Titanic", "8:00 PM")
 
 hall2.entry_show(201, "Avatar", "6:00 PM")
-hall2.entry_show(202, "Interstellar", "9:00 PM")
+hall2.entry_show(202, "Toofan", "9:00 PM")
 
 # Main Counter Operations
 while True:
